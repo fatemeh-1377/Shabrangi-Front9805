@@ -1,32 +1,14 @@
-*{
-	list-style-type : none ;
-	text-decoration : none ;
-	box-sizing : border-box ;
-	
-}
-html{
-}
-.sub-header ul{
-	background-color : lightgray ;
-	padding : 0px ;
-	width : 720px;
-}
-.sub-header li{
-	float : left ;
-}
-.sub-header a{
-	color : gray ;
-	padding : 20px ;
-	width : 120px ;
-	display : block ;
+.footer {
 	text-align : center ;
 }
-.header span img{
-	width :20px ;
+.icon-carousel li{
+	display : inline-block ;
+	list-style-type : none ;
 }
-.header h1{
-	color : gray ;
+
+.icon-footer li{
+	display : inline-block ;
+	list-style-type : none ;
+	padding : 4px ;
 }
-.sub-header{
-	clear : both ;
-}
+
