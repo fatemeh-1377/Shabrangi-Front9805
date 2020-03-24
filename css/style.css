@@ -1,9 +1,14 @@
-.text-center p {
+.text-center {
   text-align: center !important;
 }
 .icon li{
 	display : inline-block ;
-	list-style-type : none ;
-	padding : 4px ;
+	list-stysle-type : none ;
+	padding : 15px ;
+}
+.footer{
+	padding-top : 60px ;
+	padding-bottom : 60px ;
+	color : #b2b2b2 ;
 }
 
