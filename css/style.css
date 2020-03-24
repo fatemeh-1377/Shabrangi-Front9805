@@ -1,5 +1,5 @@
-.footer p li{
-	text-align : center ;
+.text-center p {
+  text-align: center !important;
 }
 .icon li{
 	display : inline-block ;
