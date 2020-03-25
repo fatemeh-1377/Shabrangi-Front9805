@@ -1,6 +1,6 @@
 .icon li{
 	display : inline-block ;
-	list-stysle-type : none ;
+	list-style-type : none;
 	padding : 15px ;
 }
 .footer{
@@ -10,10 +10,12 @@
 }
 .jumbotron{
 	background-image : url('../imge/img1.jpg');
-	padding-top : 100px ;
-	padding-bottom : 100px ;
+	padding-top : 200px ;
+	padding-bottom : 200px !important ;
 }
-.jumbotron h1,h2,ul li{
+.jumbotron h1,
+.jumbotron h2,
+.jumbotron li{
 	background-color : #646464 ;
 	color : white ;
 }
