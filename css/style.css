@@ -21,7 +21,8 @@
 }
 .jumbotron h1,
 .jumbotron h2{
-	margin : outo ;
+	margin-left : auto ;
+	margin-right : auto ;
 	width : fit-content ;
 }
 .jumbotron h1{
@@ -42,9 +43,6 @@
 	background-color : #3f8dbf ;
 	color : white ;
 	
-}
-.clear{
-	float : left ;
 }
 .img-little{
 	width : 130px ;
