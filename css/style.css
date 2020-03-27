@@ -19,6 +19,19 @@
 	background-color : #646464 ;
 	color : white ;
 }
+.jumbotron h1,
+.jumbotron h2{
+	margin : outo ;
+	width : fit-content ;
+}
+.jumbotron h1{
+	padding-left : 15px ;
+	padding-right : 15px  ;
+}
+.jumbotron h2{
+	padding-left : 20px ;
+	padding-right : 20px  ;
+}
 .title{
 	background-color : #1abc9c ;
 	color : white ;
@@ -30,10 +43,8 @@
 	color : white ;
 	
 }
-.little{
-	display : inline-block ;
-	font-size : 10px ;
-	padding : 20px ;
+.clear{
+	float : left ;
 }
 .img-little{
 	width : 130px ;
