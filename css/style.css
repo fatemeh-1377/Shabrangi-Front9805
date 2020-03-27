@@ -51,9 +51,10 @@
 	overflow : hidden ;
 	margin-top : 20px ;
 }
-
-
-
+.clear{
+	float : left;
+	width : 30.33% ;
+}
 
 
 
