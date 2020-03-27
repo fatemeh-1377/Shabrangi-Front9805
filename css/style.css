@@ -25,3 +25,41 @@
 	padding-top : 30px ;
 	padding-bottom : 30px ;
 }
+.bottom a{
+	background-color : #3f8dbf ;
+	color : white ;
+	
+}
+.little{
+	display : inline-block ;
+	font-size : 10px ;
+	padding : 20px ;
+}
+.img-little{
+	width : 130px ;
+	height : 130px ;
+	border-radius : 100px ;
+	overflow : hidden ;
+	margin-top : 20px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
