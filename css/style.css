@@ -8,6 +8,9 @@
 	padding-bottom : 60px ;
 	color : #b2b2b2 ;
 }
+.navbar-nav{
+	margin-left : auto ;
+}
 .jumbotron{
 	background-image : url('../imge/img1.jpg');
 	padding-top : 200px ;
@@ -39,17 +42,17 @@
 	padding-top : 30px ;
 	padding-bottom : 30px ;
 }
-.bottom a{
+.btn-primary{
 	background-color : #3f8dbf ;
 	color : white ;
-	
+	margin-bottom : 60px ;
 }
 .img-little{
 	width : 130px ;
 	height : 130px ;
 	border-radius : 100px ;
 	overflow : hidden ;
-	margin-top : 20px ;
+	margin-top : 50px ;
 }
 .clear{
 	float : left;
