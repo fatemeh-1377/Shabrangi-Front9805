@@ -11,6 +11,16 @@
 .navbar-nav{
 	margin-left : auto ;
 }
+.navbar-brand {
+	color : #cecece ;
+}
+.navbar-nav.active>.nav-link{
+	color : #1abc9c !important ;
+}
+.all-title{
+	margin-top : 30px ;
+	margin-bottom : 30px ;
+}
 .jumbotron{
 	background-image : url('../imge/img1.jpg');
 	padding-top : 200px ;
@@ -42,24 +52,26 @@
 	padding-top : 30px ;
 	padding-bottom : 30px ;
 }
-.btn-primary{
-	background-color : #3f8dbf ;
-	color : white ;
-	margin-bottom : 60px ;
-}
 .img-little{
 	width : 130px ;
 	height : 130px ;
 	border-radius : 100px ;
 	overflow : hidden ;
-	margin-top : 50px ;
 }
 .clear{
 	float : left;
 	width : 30.33% ;
 }
-
-
+.icon-get{
+	list-style-type : none;
+}
+.btn i{
+	margin-right : 5px ;
+}
+.portfolio{
+	background-color : #333333 ;
+}
+	
 
 
 
