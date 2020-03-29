@@ -14,12 +14,12 @@
 .navbar-brand {
 	color : #cecece ;
 }
-.navbar-nav.active>.nav-link{
+.navbar-nav .active>.nav-link{
 	color : #1abc9c !important ;
 }
 .all-title{
-	margin-top : 30px ;
-	margin-bottom : 30px ;
+	padding-top : 60px ;
+	padding-bottom : 60px ;
 }
 .jumbotron{
 	background-image : url('../imge/img1.jpg');
@@ -71,7 +71,12 @@
 .portfolio{
 	background-color : #333333 ;
 }
-	
+.portfolio h2{
+	color : white ;
+}	
+.portfolio p{
+	color : #828282 ;
+}
 
 
 
