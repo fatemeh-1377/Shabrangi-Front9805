@@ -77,8 +77,13 @@
 .portfolio p{
 	color : #828282 ;
 }
-
-
+.img-get{
+	background-image : url('../imge/img3.jpg');
+		color : white ;
+}
+.heart span{
+	margin-right : 5px ;
+}
 
 
 
