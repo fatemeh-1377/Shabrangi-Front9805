@@ -53,10 +53,11 @@
 	padding-bottom : 30px ;
 }
 .img-little{
-	width : 130px ;
-	height : 130px ;
-	border-radius : 100px ;
+	width : 260px ;
+	height : 260px ;
+	border-radius : 200px ;
 	overflow : hidden ;
+	margin-bottom : 50px ;
 }
 .clear{
 	float : left;
@@ -84,6 +85,7 @@
 .heart span{
 	margin-right : 5px ;
 }
+
 
 
 
