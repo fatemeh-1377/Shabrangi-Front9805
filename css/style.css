@@ -27,7 +27,7 @@
 	padding-bottom : 60px ;
 }
 .jumbotron{
-	background-image : url('../imge/img1.jpg');
+	background-image : url('../imge/img10.jpg');
 	padding-top : 200px ;
 	padding-bottom : 200px !important ;
 	margin-bottom : 0px ;
@@ -121,7 +121,9 @@
 .like i{
 	color : red ;
 }
-
+.number{
+	margin-right : 30px ;
+}
 
 
 
