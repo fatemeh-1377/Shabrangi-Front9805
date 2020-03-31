@@ -1,8 +1,13 @@
+.icon
+{
+	padding-left: 0px;
+}
 .icon li{
 	display : inline-block ;
 	list-style-type : none;
 	padding : 15px ;
 }
+
 .footer{
 	padding-top : 60px ;
 	padding-bottom : 60px ;
@@ -25,6 +30,7 @@
 	background-image : url('../imge/img1.jpg');
 	padding-top : 200px ;
 	padding-bottom : 200px !important ;
+	margin-bottom : 0px ;
 }
 .jumbotron h1,
 .jumbotron h2,
@@ -80,18 +86,41 @@
 }
 .img-get{
 	background-image : url('../imge/img3.jpg');
-		color : white ;
+	color : white ;
 }
 .heart span{
 	margin-right : 5px ;
 }
-
-
-
-
-
-
-
+.form input{
+	background-color : #3e3e3d ;
+	color : #a0a0a0 ;
+	border : none ;
+}
+.post{
+	background-color : #f0f0f0 ;
+}
+.like{
+	background-color : #f9f9f9 ;
+	padding-left : 20px ;
+	padding-bottom : 20px ;
+	padding-top : 20px ;
+}
+.comment{
+	background-color : white ;
+	padding-left : 20px ;
+	margin-bottom : 40px ;
+	padding-bottom : 10px ;
+	padding-top : 20px ;
+}
+.comment2{
+	background-color : white ;
+	padding-left : 20px ;
+	padding-bottom : 10px ;
+	padding-top : 20px ;
+}
+.like i{
+	color : red ;
+}
 
 
 
