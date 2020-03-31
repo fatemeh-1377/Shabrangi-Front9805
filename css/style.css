@@ -122,9 +122,13 @@
 	color : red ;
 }
 .number{
-	margin-right : 30px ;
+	float :right ;
+	margin-right : 20px ;
+	display : inline ;
 }
-
+.like div{
+	display : inline ;
+}
 
 
 
