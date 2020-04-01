@@ -3,133 +3,134 @@
 	padding-left: 0px;
 }
 .icon li{
-	display : inline-block ;
+	display : inline-block;
 	list-style-type : none;
-	padding : 15px ;
+	padding : 15px;
 }
-
 .footer{
-	padding-top : 60px ;
-	padding-bottom : 60px ;
-	color : #b2b2b2 ;
+	padding-top : 60px;
+	padding-bottom : 60px;
+	color : #b2b2b2;
 }
 .navbar-nav{
-	margin-left : auto ;
+	margin-left : auto;
 }
 .navbar-brand {
-	color : #cecece ;
+	color : #cecece;
 }
 .navbar-nav .active>.nav-link{
-	color : #1abc9c !important ;
+	color : #1abc9c !important;
 }
 .all-title{
-	padding-top : 60px ;
-	padding-bottom : 60px ;
+	padding-top : 60px;
+	padding-bottom : 60px;
 }
 .jumbotron{
 	background-image : url('../imge/img10.jpg');
-	padding-top : 200px ;
-	padding-bottom : 200px !important ;
-	margin-bottom : 0px ;
+	padding-top : 200px;
+	padding-bottom : 200px !important;
+	margin-bottom : 0px;
 }
 .jumbotron h1,
 .jumbotron h2,
 .jumbotron li{
-	background-color : #646464 ;
-	color : white ;
+	background-color : #646464;
+	color : white;
 }
 .jumbotron h1,
 .jumbotron h2{
-	margin-left : auto ;
-	margin-right : auto ;
+	margin-left : auto;
+	margin-right : auto;
 	width : fit-content ;
 }
 .jumbotron h1{
-	padding-left : 15px ;
-	padding-right : 15px  ;
+	padding-left : 15px;
+	padding-right : 15px;
 }
 .jumbotron h2{
-	padding-left : 20px ;
-	padding-right : 20px  ;
+	padding-left : 20px;
+	padding-right : 20px;
 }
 .title{
-	background-color : #1abc9c ;
-	color : white ;
-	padding-top : 30px ;
-	padding-bottom : 30px ;
+	background-color : #1abc9c;
+	color : white;
+	padding-top : 30px;
+	padding-bottom : 30px;
 }
 .img-little{
-	width : 260px ;
-	height : 260px ;
-	border-radius : 200px ;
-	overflow : hidden ;
-	margin-bottom : 50px ;
+	width : 260px;
+	height : 260px;
+	border-radius : 200px;
+	overflow : hidden;
+	margin-bottom : 50px;
 }
 .clear{
 	float : left;
-	width : 30.33% ;
+	width : 30.33%;
 }
 .icon-get{
 	list-style-type : none;
 }
 .btn i{
-	margin-right : 5px ;
+	margin-right : 5px;
 }
 .portfolio{
-	background-color : #333333 ;
+	background-color : #333333;
 }
 .portfolio h2{
-	color : white ;
+	color : white;
 }	
 .portfolio p{
-	color : #828282 ;
+	color : #828282;
 }
 .img-get{
 	background-image : url('../imge/img3.jpg');
-	color : white ;
+	color : white;
 }
 .heart span{
-	margin-right : 5px ;
+	margin-right : 5px;
 }
 .form input{
-	background-color : #3e3e3d ;
-	color : #a0a0a0 ;
-	border : none ;
+	background-color : #3e3e3d;
+	color : #a0a0a0;
+	border : none;
 }
 .post{
-	background-color : #f0f0f0 ;
+	background-color : #f0f0f0;
 }
 .like{
-	background-color : #f9f9f9 ;
-	padding-left : 20px ;
-	padding-bottom : 20px ;
-	padding-top : 20px ;
+	background-color : #f9f9f9;
+	padding-left : 20px;
+	padding-bottom : 20px;
+	padding-top : 20px;
 }
 .comment{
-	background-color : white ;
-	padding-left : 20px ;
-	margin-bottom : 40px ;
-	padding-bottom : 10px ;
-	padding-top : 20px ;
+	background-color : white;
+	padding-left : 20px;
+	margin-bottom : 40px;
+	padding-bottom : 10px;
+	padding-top : 20px;
 }
 .comment2{
-	background-color : white ;
-	padding-left : 20px ;
-	padding-bottom : 10px ;
-	padding-top : 20px ;
+	background-color : white;
+	padding-left : 20px;
+	padding-bottom : 10px;
+	padding-top : 20px;
 }
 .like i{
-	color : red ;
+	color : red;
 }
 .number{
-	float :right ;
-	margin-right : 20px ;
-	display : inline ;
+	float :right;
+	margin-right : 20px;
+	display : inline;
 }
 .like div{
-	display : inline ;
+	display : inline;
 }
-
+.slid-img{
+	display : inline;
+}
 
 
 
