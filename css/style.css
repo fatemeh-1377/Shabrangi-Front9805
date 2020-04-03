@@ -12,6 +12,9 @@
 	padding-bottom : 60px;
 	color : #b2b2b2;
 }
+.footer p{
+	color : #b2b2b2;
+}
 .navbar-nav{
 	margin-left : auto;
 }
@@ -23,6 +26,7 @@
 	color : #1abc9c !important;
 	
 }
+
 .all-title{
 	padding-top : 60px;
 	padding-bottom : 60px;
@@ -148,17 +152,23 @@
 	margin-top : 10px;
 }
 .icon-get h5,p{
-	color : white ;
 	margin-top : 10px;
+}
+.icon-get p{
+	color : #b2b2b2;
 }
 .icon-get ul{
 	padding-left : 0px;
 }
+.icon-get h5{
+	color : white;
+}
 .icon-form{
-		color : white;
+		color : #b2b2b2;
 }
 .icon-form i{
-	margin-right : 20px;
+	color : white;
+	margin-right : 10px;
 }
 .form-control{
 	margin-top : 20px;
@@ -167,7 +177,6 @@
 	border-radius : 0px;
 	border-right-style : none;
 }
-
 
 
 
