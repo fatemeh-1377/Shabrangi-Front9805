@@ -14,12 +14,14 @@
 }
 .navbar-nav{
 	margin-left : auto;
+
 }
 .navbar-brand {
 	color : #cecece;
 }
 .navbar-nav .active>.nav-link{
 	color : #1abc9c !important;
+	
 }
 .all-title{
 	padding-top : 60px;
@@ -30,6 +32,7 @@
 	padding-top : 200px;
 	padding-bottom : 200px !important;
 	margin-bottom : 0px;
+	background-attachment : fixed;
 }
 .jumbotron h1,
 .jumbotron h2,
@@ -56,6 +59,7 @@
 	color : white;
 	padding-top : 30px;
 	padding-bottom : 30px;
+	
 }
 .img-little{
 	width : 260px;
@@ -70,6 +74,7 @@
 }
 .icon-get{
 	list-style-type : none;
+	color : #a0a0a0;
 }
 .btn i{
 	margin-right : 5px;
@@ -85,7 +90,7 @@
 }
 .img-get{
 	background-image : url('../imge/img3.jpg');
-	color : white;
+	
 }
 .heart span{
 	margin-right : 5px;
