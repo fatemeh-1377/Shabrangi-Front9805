@@ -14,10 +14,10 @@
 }
 .navbar-nav{
 	margin-left : auto;
-
 }
 .navbar-brand {
 	color : #cecece;
+	
 }
 .navbar-nav .active>.nav-link{
 	color : #1abc9c !important;
@@ -28,11 +28,12 @@
 	padding-bottom : 60px;
 }
 .jumbotron{
-	background-image : url('../imge/img10.jpg');
+	background-image : url('../imge/img13.jpg');
 	padding-top : 200px;
 	padding-bottom : 200px !important;
 	margin-bottom : 0px;
 	background-attachment : fixed;
+	
 }
 .jumbotron h1,
 .jumbotron h2,
@@ -62,8 +63,8 @@
 	
 }
 .img-little{
-	width : 260px;
-	height : 260px;
+	width : 270px;
+	height : 270px;
 	border-radius : 200px;
 	overflow : hidden;
 	margin-bottom : 50px;
@@ -72,9 +73,10 @@
 	float : left;
 	width : 30.33%;
 }
-.icon-get{
-	list-style-type : none;
-	color : #a0a0a0;
+
+.btn{
+	background-color : #3f8dbf;
+	border-bottom : 5px solid #3678a3;
 }
 .btn i{
 	margin-right : 5px;
@@ -89,8 +91,7 @@
 	color : #828282;
 }
 .img-get{
-	background-image : url('../imge/img3.jpg');
-	
+	background-image : url('../imge/img1.jpg');
 }
 .heart span{
 	margin-right : 5px;
@@ -135,7 +136,49 @@
 }
 .slid-img{
 	display : inline;
+	
 }
+.icon-get{
+	padding-left : 0px;
+	margin-left : 20px;
+}
+.icon-get li{
+	list-style-type : none;
+	padding : 0px;
+	margin-top : 10px;
+}
+.icon-get h5,p{
+	color : white ;
+	margin-top : 10px;
+}
+.icon-get ul{
+	padding-left : 0px;
+}
+.icon-form{
+		color : white;
+}
+.icon-form i{
+	margin-right : 20px;
+}
+.form-control{
+	margin-top : 20px;
+	background-color : bolorgray;
+	opacity : 0.25;
+	border-radius : 0px;
+	border-right-style : none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
