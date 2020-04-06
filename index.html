@@ -9,6 +9,7 @@
 	<link rel="stylesheet" href="FontAwesome/css/brands.css">
 	<link rel="stylesheet" href="FontAwesome/css/solid.css">
 	<link rel="stylesheet" href="css/style.css">
+
 </head>
 <body>
 	<!-- start header -->
@@ -101,12 +102,12 @@
 		<div  class="all-title">
 			<div class="container">
 				<div class="row">
-					<div class="col-md-4">
+					<div class="col-md-5">
 						<div class="img-little">
 							<img src="imge/img166.jpg"/>
 						</div>
 					</div>
-					<div class="col-md-8">
+					<div class="col-md-7">
 						<div>
 							<h5>Vestibulum ligut praesent commodo cursus magna, scelerisque  sit consectetur et. Cum sociis natoque penatibus et magnis dis tellus parturient pharetra montes.</h5>
 							<p>Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Maecenas sed diam eget risus varius blandit sit amet non magna. Aenean lacinia bibendum nulla sed consectetur. Vestibulum id ligula porta felis euismod semper. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Nullam id dolor id nibh ultricies vehicula ut id elit, fusce dapibus, tellus ac cursus commodo.</p>
@@ -164,10 +165,11 @@
 			<!-- end concept portfolio -->
 			<!-- start img1 portfolio -->
 			<div class="slid-img">
-				<img src="imge/bw5.jpg"/>
-				<img src="imge/bw6.jpg"/>
-				<img src="imge/bw7.jpg"/>
-				<img src="imge/bw8.jpg"/>
+
+				<img class="medium" src="imge/bw5.jpg"/>
+				<img class="big" src="imge/bw6.jpg"/>
+				<img class="small" src="imge/bw7.jpg"/>
+
 			</div>
 			<!-- end img portfolio -->
 			<!-- start black portfolio -->
@@ -178,11 +180,11 @@
 			<!-- end black portfolio -->
 			<!-- start IMG2 portfolio -->
 			<div class="slid-img">
-				<img src="imge/bw1.jpg"/>
-				<img src="imge/bw2.jpg"/>
-				<img src="imge/bw3.jpg"/>
-				<img src="imge/bw4.jpg"/>
-			</div>
+
+				<img class="big" src="imge/bw1.jpg"/>
+				<img class="medium" src="imge/bw2.jpg"/>
+				<img class="small" src="imge/bw3.jpg"/>
+
 			<!-- end IMG2 portfolio -->
 	</div>
 	</div>
@@ -280,15 +282,17 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-md-7">
-						<form>
-							<div class="form-group">
-								<input type="email" placeholder="YOUR NAME" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
-								<input type="text" placeholder="E-MAIL" class="form-control" id="exampleInputPassword1">
-								<input type="text" placeholder="THE SUBJECT" class="form-control" id="exampleInputPassword1">
-								<textarea class="form-control" placeholder="YOUR MASSAGE"  id="exampleFormControlTextarea1" rows="8"></textarea>
-							</div>
+
+
+						<form action="">
+							<input type="text" placeholder="YOUR NAME" class="form-control" id="name">
+							<input type="email" placeholder="YOUR EMAIL" class="form-control" id="mail" aria-describedby="emailHelp">
+							<input type="text" placeholder="THE SUBJECT" class="form-control" id="subject">
+							<textarea class="form-control" placeholder="YOUR MASSAGE" id="massage" rows="8"></textarea>
+							<button type="button" class="btn btn-primary" onClick="printForm()"><i class="fab fa-telegram" onClick="printForm()"></i>Submit</button>
 						</form>
-						<button type="submit" class="btn btn-primary"><i class="fab fa-telegram"></i>SUBMIT</button>
+
+
 					</div>
 					<div class="col-md-4">
 						<div class="icon-get">
@@ -334,6 +338,10 @@
 		</ul>
 	</div>
 	<!-- end footer -->
-	
+
+		</div>
+
+
+	<script src="script.js"></script>
 </body>
 </html>
